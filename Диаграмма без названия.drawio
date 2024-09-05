@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.11">
+  <diagram name="Страница — 1" id="UGsZBOF6XvNXrdalulC6">
+    <mxGraphModel dx="1434" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2g3VjrEPVkcxrCoPNEAl-1" target="2g3VjrEPVkcxrCoPNEAl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-1" value="Вступление" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2g3VjrEPVkcxrCoPNEAl-6" target="2g3VjrEPVkcxrCoPNEAl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2g3VjrEPVkcxrCoPNEAl-6" target="2g3VjrEPVkcxrCoPNEAl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-6" value="Тюрьма&lt;div&gt;Возможность побега&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333.13" y="110" width="143.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-8" value="Изолятор, голод, холод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-10" value="Быть послушной" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="466.88" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2g3VjrEPVkcxrCoPNEAl-11" target="2g3VjrEPVkcxrCoPNEAl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-11" value="Сам побег" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-13" value="Сбежать" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="263.13" y="100" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2g3VjrEPVkcxrCoPNEAl-8" target="2g3VjrEPVkcxrCoPNEAl-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="309.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-16" value="Смерть" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2g3VjrEPVkcxrCoPNEAl-17" target="2g3VjrEPVkcxrCoPNEAl-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-17" value="Переночевать в заброшке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333.13" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2g3VjrEPVkcxrCoPNEAl-18" target="2g3VjrEPVkcxrCoPNEAl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2g3VjrEPVkcxrCoPNEAl-18" target="2g3VjrEPVkcxrCoPNEAl-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-18" value="Где спать?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2g3VjrEPVkcxrCoPNEAl-22" target="2g3VjrEPVkcxrCoPNEAl-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-22" value="Переночевать под мостом" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-27" value="Смерть" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2g3VjrEPVkcxrCoPNEAl-28" value="Утро" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352.2" y="380" width="71.87" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
