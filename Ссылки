@@ -1,0 +1,63 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+void scene1();
+void scene2();
+void scene3_bad();
+void scene3_good();
+
+int main() {
+    setlocale(LC_ALL, "Russian");
+    cout << "Добро пожаловать в нашу текстовую новеллу!\n";
+    cout << "Ты начинаешь свой день в маленьком городе. Что ты хочешь сделать?\n";
+    cout << "1. Пойти в лес.\n";
+    cout << "2. Остаться дома.\n";
+
+    int choice;
+    cin >> choice;
+
+    if (choice == 1) {
+        scene1();
+    }
+    else if (choice == 2) {
+        scene2();
+    }
+    else {
+        cout << "Неправильный выбор, попробуйте снова.\n";
+    }
+
+    return 0;
+}
+
+void scene1() {
+    cout << "Ты отправился в лес и встретил таинственного старца.\n";
+    cout << "1. Поговорить со старцем.\n";
+    cout << "2. Игнорировать старца и продолжить путь.\n";
+
+    int choice;
+    cin >> choice;
+
+    if (choice == 1) {
+        scene3_good();
+    }
+    else if (choice == 2) {
+        scene3_bad();
+    }
+    else {
+        cout << "Неправильный выбор, попробуйте снова.\n";
+    }
+}
+
+void scene2() {
+    cout << "Ты остался дома и заснул. Ничего интересного не произошло.\n";
+    cout << "Конец игры.\n";
+}
+
+void scene3_bad() {
+    cout << "Ты проигнорировал старца и заблудился в лесу. Конец игры.\n";
+}
+
+void scene3_good() {
+    cout << "Старец дал тебе магический артефакт, который спасёт твой город. Ты победил! Конец игры.\n";
+}
