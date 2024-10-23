@@ -1,0 +1,13 @@
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\obj\Debug\Kfkfkfkf.csproj.AssemblyReference.cache
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\obj\Debug\Kfkfkfkf.csproj.SuggestedBindingRedirects.cache
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\obj\Debug\Kfkfkfkf.Avtorisacia.resources
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\obj\Debug\Kfkfkfkf.Properties.Resources.resources
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\obj\Debug\Kfkfkfkf.csproj.GenerateResource.cache
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\obj\Debug\Kfkfkfkf.csproj.CoreCompileInputs.cache
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\bin\Debug\Lala.mdf
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\bin\Debug\Lala_log.ldf
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\bin\Debug\Kfkfkfkf.exe.config
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\bin\Debug\Kfkfkfkf.exe
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\bin\Debug\Kfkfkfkf.pdb
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\obj\Debug\Kfkfkfkf.exe
+C:\Users\as2\source\repos\Kfkfkfkf\Kfkfkfkf\obj\Debug\Kfkfkfkf.pdb
